@@ -38,7 +38,7 @@ This repository is submitted for grading. Per the project rubric, the following 
 
 Gameplay Video: [Link to your gameplay video on YouTube/Vimeo here]
 
-Design Changes: A document outlining deviations from the original one-pager is available here: [changes to lol dodge game.pdf](https://github.com/user-attachments/files/23110635/changes.to.lol.dodge.game.pdf)
+Design Changes: A document outlining deviations from the original one-pager is available here: [changes to lol dodge game.pdf](https://github.com/user-attachments/files/23110666/changes.to.lol.dodge.game.pdf)
 
 
 Development
