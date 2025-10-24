@@ -1,0 +1,14 @@
+# Unity-specific files
+My-Dodge-Game/[Ll]ibrary/
+My-Dodge-Game/[Tt]emp/
+My-Dodge-Game/[Oo]bj/
+My-Dodge-Game/[Bb]uild/
+My-Dodge-Game/[Bb]uilds/
+My-Dodge-Game/[Ll]ogs/
+My-Dodge-Game/[Uu]serSettings/
+
+# Visual Studio files
+My-Dodge-Game/.vs/
+My-Dodge-Game/.vscode/
+My-Dodge-Game/*.sln
+My-Dodge-Game/*.csproj
