@@ -9,7 +9,8 @@ Features
 
 Increasing Difficulty: The speed, frequency, and patterns of projectiles ramp up the longer you survive.
 
-High Score Tracking: Compete against yourself to get the longest possible survival time.
+(in progress)
+High Score Tracking: Compete against yourself to get the longest possible survival time. 
 
 
 How to Play
