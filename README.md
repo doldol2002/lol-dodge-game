@@ -36,6 +36,7 @@ Installation
 Download the latest release from the link below:
 
 https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My-Dodge-Game-v1.2.zip
+https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My.Dodge.Game.Windows.zip
 
 Extract the ZIP file and run the `.exe` (Windows) or `.app` (Mac) to play.
 
