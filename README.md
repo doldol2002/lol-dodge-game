@@ -35,18 +35,14 @@ Installation
 -----------------------------------------------------------------------------------
 Download the latest release from the link below:
 
-https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My-Dodge-Game-v1.2.zip
-https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My.Dodge.Game.Windows.zip
-
-Extract the ZIP file and run the `.exe` (Windows) or `.app` (Mac) to play.
+https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My-Dodge-Game-v1.2.zip (for Mac)
+https://github.com/doldol2002/lol-dodge-game/releases/download/v1.2/My.Dodge.Game.Windows.zip (for Windows)
 
 
 Submission & Grading
 -----------------------------------------------------------------------------------
 
 This repository is submitted for grading. Per the project rubric, the following items are required:
-
-Gameplay Video: [Link to your gameplay video on YouTube/Vimeo here]
 
 Design Changes: A document outlining deviations from the original one-pager is available here: [changes to lol dodge game.pdf](https://github.com/user-attachments/files/23110666/changes.to.lol.dodge.game.pdf)
 
